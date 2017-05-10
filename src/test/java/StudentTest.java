@@ -11,7 +11,7 @@ public class StudentTest {
     public void getStudent()  {
 
          student = new Student("Mada");
-        assert student.getStudent().equals( "Mada");
+        assert student.getStudent().equals( "Ana");
 
     }
 
